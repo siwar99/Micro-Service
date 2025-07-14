@@ -1,0 +1,8 @@
+C:\Users\emnam\Desktop\microservice\shared-library\src\main\java\com\healthcare\shared\event\VisiteCreatedEvent.java
+C:\Users\emnam\Desktop\microservice\shared-library\src\main\java\com\healthcare\shared\event\VisiteUpdatedEvent.java
+C:\Users\emnam\Desktop\microservice\shared-library\src\main\java\com\healthcare\shared\mapper\MedecinMapper.java
+C:\Users\emnam\Desktop\microservice\shared-library\src\main\java\com\healthcare\shared\dto\MedecinDTO.java
+C:\Users\emnam\Desktop\microservice\shared-library\src\main\java\com\healthcare\shared\dto\VisiteDTO.java
+C:\Users\emnam\Desktop\microservice\shared-library\src\main\java\com\healthcare\shared\feign\FeignConfig.java
+C:\Users\emnam\Desktop\microservice\shared-library\src\main\java\com\healthcare\shared\feign\MedecinResponse.java
+C:\Users\emnam\Desktop\microservice\shared-library\src\main\java\com\healthcare\shared\feign\MedecinClient.java

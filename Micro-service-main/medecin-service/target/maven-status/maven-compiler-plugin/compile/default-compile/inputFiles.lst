@@ -1,0 +1,9 @@
+C:\Users\emnam\Desktop\microservice\medecin-service\src\main\java\com\healthcare\medecin\controller\MedecinController.java
+C:\Users\emnam\Desktop\microservice\medecin-service\src\main\java\com\healthcare\medecin\model\Medecin.java
+C:\Users\emnam\Desktop\microservice\medecin-service\src\main\java\com\healthcare\medecin\config\SecurityConfig.java
+C:\Users\emnam\Desktop\microservice\medecin-service\src\main\java\com\healthcare\medecin\service\MedecinService.java
+C:\Users\emnam\Desktop\microservice\medecin-service\src\main\java\com\healthcare\medecin\service\NotificationService.java
+C:\Users\emnam\Desktop\microservice\medecin-service\src\main\java\com\healthcare\medecin\config\KafkaConfig.java
+C:\Users\emnam\Desktop\microservice\medecin-service\src\main\java\com\healthcare\medecin\dto\MedecinDTO.java
+C:\Users\emnam\Desktop\microservice\medecin-service\src\main\java\com\healthcare\medecin\MedecinServiceApplication.java
+C:\Users\emnam\Desktop\microservice\medecin-service\src\main\java\com\healthcare\medecin\repository\MedecinRepository.java

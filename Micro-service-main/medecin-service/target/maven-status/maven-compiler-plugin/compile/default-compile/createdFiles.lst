@@ -1,0 +1,11 @@
+com\healthcare\medecin\config\KafkaConfig.class
+com\healthcare\medecin\controller\MedecinController.class
+com\healthcare\medecin\dto\MedecinDTO$MedecinDTOBuilder.class
+com\healthcare\medecin\service\MedecinService.class
+com\healthcare\medecin\model\Medecin$MedecinBuilder.class
+com\healthcare\medecin\repository\MedecinRepository.class
+com\healthcare\medecin\config\SecurityConfig.class
+com\healthcare\medecin\service\NotificationService.class
+com\healthcare\medecin\MedecinServiceApplication.class
+com\healthcare\medecin\dto\MedecinDTO.class
+com\healthcare\medecin\model\Medecin.class

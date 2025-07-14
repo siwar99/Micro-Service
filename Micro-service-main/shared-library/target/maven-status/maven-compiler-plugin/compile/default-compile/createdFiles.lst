@@ -1,0 +1,12 @@
+com\healthcare\shared\event\VisiteUpdatedEvent.class
+com\healthcare\shared\feign\FeignConfig.class
+com\healthcare\shared\mapper\MedecinMapper.class
+com\healthcare\shared\dto\VisiteDTO.class
+com\healthcare\shared\feign\MedecinClient.class
+com\healthcare\shared\feign\MedecinResponse.class
+com\healthcare\shared\dto\MedecinDTO.class
+com\healthcare\shared\dto\MedecinDTO$MedecinDTOBuilder.class
+com\healthcare\shared\event\VisiteCreatedEvent.class
+com\healthcare\shared\feign\MedecinResponse$MedecinResponseBuilder.class
+com\healthcare\shared\mapper\MedecinMapperImpl.class
+com\healthcare\shared\dto\VisiteDTO$VisiteDTOBuilder.class

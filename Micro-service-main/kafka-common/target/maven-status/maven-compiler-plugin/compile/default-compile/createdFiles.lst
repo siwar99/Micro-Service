@@ -1,0 +1,4 @@
+com\healthcare\kafka\events\VisiteCreatedEvent.class
+com\healthcare\kafka\events\VisiteCreatedEvent$VisiteCreatedEventBuilder.class
+com\healthcare\kafka\events\VisiteUpdatedEvent$VisiteUpdatedEventBuilder.class
+com\healthcare\kafka\events\VisiteUpdatedEvent.class
