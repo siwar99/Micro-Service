@@ -8,9 +8,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/EmnaMalek/Micro-service.git
-          username: EmnaMalek
-          password: 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
+          uri: https://github.com/siwar99/Micro-Service.git
+          username: siwar99
+          password: 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
           default-label: main
           clone-on-start: true
           timeout: 5
